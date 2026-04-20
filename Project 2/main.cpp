@@ -4,13 +4,13 @@
 // Fall 2026
 // Project 2: Infix to Postfix Conversion
 // Name: Lawson Black
-// ID-number (Last 4 Digits): XXXX
+// ID-number (Last 4 Digits): 9680
 // Description:
 // This program converts an arithmetic expression in infix notation
 // to postfix notation using a stack. Each operator and operand is
 // separated by spaces for correct processing.
-// Date Written:
-// Date Revised:
+// Date Written:4/20/2026
+// Date Revised: 4/20/2026
 
 #include <iostream>
 #include <string>
